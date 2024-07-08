@@ -1,0 +1,525 @@
+@article{migliori2017framework,
+  title={A framework for computational fluid dynamic analyses of patient-specific stented coronary arteries from optical coherence tomography images},
+  author={Migliori, Susanna and Chiastra, Claudio and Bologna, Marco and Montin, Eros and Dubini, Gabriele and Aurigemma, Cristina and Fedele, Roberto and Burzotta, Francesco and Mainardi, Luca and Migliavacca, Francesco},
+  journal={Medical Engineering \& Physics},
+  volume={47},
+  pages={105--116},
+  year={2017},
+  publisher={Elsevier}
+}
+
+@article{chiastra2017reconstruction,
+  title={Reconstruction of stented coronary arteries from optical coherence tomography images: Feasibility, validation, and repeatability of a segmentation method},
+  author={Chiastra, Claudio and Montin, Eros and Bologna, Marco and Migliori, Susanna and Aurigemma, Cristina and Burzotta, Francesco and Celi, Simona and Dubini, Gabriele and Migliavacca, Francesco and Mainardi, Luca},
+  journal={PLoS One},
+  volume={12},
+  number={6},
+  pages={e0177495},
+  year={2017},
+  publisher={Public Library of Science San Francisco, CA USA}
+}
+
+@article{corino2018radiomic,
+  title={Radiomic analysis of soft tissues sarcomas can distinguish intermediate from high-grade lesions},
+  author={Corino, Valentina DA and Montin, Eros and Messina, Antonella and Casali, Paolo G and Gronchi, Alessandro and Marchian{\`o}, Alfonso and Mainardi, Luca T},
+  journal={Journal of Magnetic Resonance Imaging},
+  volume={47},
+  number={3},
+  pages={829--840},
+  year={2018},
+  publisher={Wiley Online Library}
+}
+
+@article{chiastra2014numerical,
+  title={Numerical modeling of hemodynamics in stented coronary arteries},
+  author={Chiastra, Claudio},
+  year={2014},
+  publisher={Politecnico di Milano}
+}
+
+@article{spina2012results,
+  title={Results of a Prospective Study Comparing Whole-Body Diffusion-Weighted Magnetic Resonance Imaging with Skeletal X-Ray and Magnetic Resonance of the Spine for Assessing Bone Disease in Multiple Myeloma.},
+  author={Spina, Francesco and Potepan, Paolo and Trecate, Giovanna and Montin, Eros and Montefusco, Vittorio and Laffranchi, Alberto and Mainardi, Luca and Panizza, Pietro and Mariani, Luigi and Corradini, Paolo},
+  journal={Blood},
+  volume={120},
+  number={21},
+  pages={2913},
+  year={2012},
+  publisher={Content Repository Only!}
+}
+
+@inproceedings{veronese2012quantitative,
+  title={Quantitative characterization and identification of lymph nodes and nasopharingeal carcinoma by coregistered magnetic resonance images},
+  author={Veronese, Fabio and Montin, Eros and Potepan, Paolo and Mainardi, Luca T},
+  booktitle={2012 Annual International Conference of the IEEE Engineering in Medicine and Biology Society},
+  pages={5331--5334},
+  year={2012},
+  organization={IEEE}
+}
+
+@article{bonacina2009web,
+  title={A web-based tool for cooperating behaviors in eating and physical activity control},
+  author={Bonacina, Stefano and Privitera, Ylenia Adelaide and Marsilio, Serena and Montin, Eros and Passarelli, Federica and Masseroli, Marco and Pinciroli, Francesco},
+  journal={Annual Review of Cybertherapy and Telemedicine 2009},
+  pages={155--159},
+  year={2009},
+  publisher={IOS Press}
+}
+
+@inproceedings{montin2014tuning,
+  title={Tuning and validation of an image registration procedure for pediatric MR images},
+  author={Montin, Eros and Storelli, L and Meroni, S and Arrigoni, F and Adducci, A and Pecori, E and Gandola, L and Massimino, M and Pignoli, E and Poggi, G and others},
+  booktitle={4th conference of Gruppo Nazionale di Bioingegneria},
+  pages={25--27},
+  year={2014}
+}
+
+@inproceedings{montin2015tuning,
+  title={Tuning of a deformable image registration procedure for skin component mechanical properties assessment},
+  author={Montin, Eros and Cutri, Elena and Spadola, Giuseppe and Testori, Alessandro and Pennati, Giancarlo and Mainardi, Luca},
+  booktitle={2015 37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)},
+  pages={6305--6308},
+  year={2015},
+  organization={IEEE}
+}
+
+@inproceedings{migliori2017reconstruction,
+  title={Reconstruction of stented coronary arteries for CFD analyses: from in vitro to patient-specific models},
+  author={Migliori, Susanna and Bologna, Marco and Montin, Eros and Dubini, Gabriele and Aurigemma, Cristina and Burzotta, Francesco and Mainardi, Luca and Migliavacca, Francesco and Chiastra, Claudio and others},
+  booktitle={Proceedings of the VII Annual Meeting Italian Chapter of the European Society of Biomechanics},
+  pages={51--52},
+  year={2017},
+  organization={Universit{\`a} degli studi di Roma Tor Vergata}
+}
+
+@article{storelli2012validation,
+  title={Validation of an image registration algorithm to control radiation-induced damage in childhooh brain cancer},
+  author={STORELLI, LOREDANA},
+  year={2012},
+  publisher={Politecnico di Milano}
+}
+
+@inproceedings{montin2016method,
+  title={A method for coronary bifurcation centerline reconstruction from angiographic images based on focalization optimization},
+  author={Montin, Eros and Migliori, Susanna and Chiastra, Claudio and Credi, Caterina and Fedele, Roberto and Aurigemma, Cristina and Levi, Marinella and Burzotta, Francesco and Migliavacca, Francesco and Mainardi, Luca T},
+  booktitle={2016 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)},
+  pages={4165--4168},
+  year={2016},
+  organization={IEEE}
+}
+
+@inproceedings{chiastra2013coronary,
+  title={Coronary stenting: From optical coherence tomography to fluid dynamic simulations},
+  author={Chiastra, Claudio and Montin, Eros and Burzotta, Francesco and Mainardi, Luca and Migliavacca, Francesco},
+  booktitle={13th IEEE international conference on bioinformatics and bioengineering},
+  pages={1--4},
+  year={2013},
+  organization={IEEE}
+}
+
+@inproceedings{montin2012validation,
+  title={Validation of an image registration framework to investigate long term neurocognitive outcome correlated to radiation dose and diffusion-tensor mri information (DTI) in children focally irradiated for primitive malignant brain tumours},
+  author={Montin, Eros and Meroni, Silvia and Arrigoni, Filippo and Potepan, Paolo and Adducci, Anna and Pecori, Emilia and Gandola, Lorenza and Massimino, Maura and Pignoli, Emanuele and Poggi, Geraldina},
+  booktitle={PEDIATRIC BLOOD \& CANCER},
+  volume={59},
+  number={6},
+  pages={974--975},
+  year={2012},
+  organization={WILEY PERIODICALS, INC ONE MONTGOMERY ST, SUITE 1200, SAN FRANCISCO, CA~…}
+}
+
+@article{migliori2018patient,
+  title={A patient-specific study investigating the relation between coronary hemodynamics and neo-intimal thickening after bifurcation stenting with a polymeric bioresorbable scaffold},
+  author={Migliori, Susanna and Rampat, Rajiv and Bologna, Marco and Montin, Eros and Burzotta, Francesco and Hildick-Smith, David and Dubini, Gabriele and Mainardi, Luca and Migliavacca, Francesco and Cockburn, James and others},
+  journal={Applied Sciences},
+  volume={8},
+  number={9},
+  pages={1510},
+  year={2018},
+  publisher={MDPI}
+}
+
+@article{bianchi2013radiotherapy,
+  title={Radiotherapy effect assessment through diffusion weighted imaging on patients affected by prostate cancer},
+  author={BIANCHI, MARTA and CIVITA, ROBERTA},
+  year={2013},
+  publisher={Politecnico di Milano}
+}
+
+@article{tana2010exploring,
+  title={Exploring cortical attentional system by using fMRI during a Continuous Perfomance Test},
+  author={Tana, Maria Gabriella and Montin, Eros and Cerutti, Sergio and Bianchi, Anna M},
+  journal={Computational intelligence and neuroscience},
+  volume={2010},
+  number={1},
+  pages={329213},
+  year={2010},
+  publisher={Hindawi Publishing Corporation}
+}
+
+@inproceedings{montin2014full,
+  title={A full automatic method for the soft tissues sarcoma treatment response based on fuzzy logic},
+  author={Montin, Eros and Messina, A and Mainardi, LT},
+  booktitle={XIII Mediterranean Conference on Medical and Biological Engineering and Computing 2013: MEDICON 2013, 25-28 September 2013, Seville, Spain},
+  pages={221--224},
+  year={2014},
+  organization={Springer International Publishing}
+}
+
+@article{bologna2019automatic,
+  title={Automatic segmentation of optical coherence tomography pullbacks of coronary arteries treated with bioresorbable vascular scaffolds: Application to hemodynamics modeling},
+  author={Bologna, Marco and Migliori, Susanna and Montin, Eros and Rampat, Rajiv and Dubini, Gabriele and Migliavacca, Francesco and Mainardi, Luca and Chiastra, Claudio},
+  journal={PloS one},
+  volume={14},
+  number={3},
+  pages={e0213603},
+  year={2019},
+  publisher={Public Library of Science San Francisco, CA USA}
+}
+
+@inproceedings{bologna2017stability,
+  title={Stability assessment of first order statistics features computed on ADC maps in soft-tissue sarcoma},
+  author={Bologna, Marco and Montin, Eros and Corino, Valentina DA and Mainardi, Luca T},
+  booktitle={2017 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)},
+  pages={612--615},
+  year={2017},
+  organization={IEEE}
+}
+
+@article{bologna2018assessment,
+  title={Assessment of stability and discrimination capacity of radiomic features on apparent diffusion coefficient images},
+  author={Bologna, Marco and Corino, Valentina DA and Montin, Eros and Messina, Antonella and Calareso, Giuseppina and Greco, Francesca G and Sdao, Silvana and Mainardi, Luca T},
+  journal={Journal of digital imaging},
+  volume={31},
+  pages={879--894},
+  year={2018},
+  publisher={Springer International Publishing}
+}
+
+@inproceedings{montin2015nasopharyngeal,
+  title={Nasopharyngeal Carcinoma Lymph Nodes Evaluation during Therapy through Diffusion Weighted Magnetic Resonance Images},
+  author={Montin, Eros and {\v{S}}ero, Dzemila and Potepan, Paolo and Mainardi, Luca T},
+  booktitle={6th European Conference of the International Federation for Medical and Biological Engineering: MBEC 2014, 7-11 September 2014, Dubrovnik, Croatia},
+  pages={212--215},
+  year={2015},
+  organization={Springer International Publishing}
+}
+
+@inproceedings{montin2012registration,
+  title={A registration framework for evaluation of T1, T2 and DWI signal intensities in multiple myeloma},
+  author={Montin, Eros and Potepan, Paolo and Mainardi, Luca},
+  booktitle={Special Session on Medical Image Analysis and Description for Diagnosis Systems},
+  volume={2},
+  pages={563--566},
+  year={2012},
+  organization={SCITEPRESS}
+}
+
+@article{montin2015novel,
+  title={A novel image registration strategy for oncological pediatric brain images fusion},
+  author={Montin, Eros},
+  year={2015},
+  publisher={Politecnico di Milano}
+}
+
+@article{meroni201850,
+  title={50. Retrospective study of late radiation damages after focal radiotherapy for childhood brain tumors},
+  author={Meroni, S and Cavatorta, C and Lecchi, M and Montin, E and Oprandi, C and Pecori, E and Spreafico, F and Diletto, B and Biassoni, V and Schiavello, E and others},
+  journal={Physica Medica: European Journal of Medical Physics},
+  volume={56},
+  pages={94},
+  year={2018},
+  publisher={Elsevier}
+}
+
+@article{locati2012whole,
+  title={Whole-Body Diffusion MRI and Skeletal Lesions in Thyroid Cancer: Diagnostic and Therapeutic Implications},
+  author={Locati, L and Granata, R and Potepan, P and Aliberti, G and Civelli, E and Bossi, P and Montin, E and Licitra, L},
+  journal={Annals of Oncology},
+  volume={23},
+  pages={ix344},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@article{bologna2019po,
+  title={PO-115 Radiomics-based prediction of response to induction chemotherapy in sinonasal cancer},
+  author={Bologna, M and Calareso, G and Resteghini, C and Sdao, S and Montin, E and Corino, V and Mainardi, L and Licitra, L and Bossi, P},
+  journal={Radiotherapy and Oncology},
+  volume={132},
+  pages={59},
+  year={2019},
+  publisher={Elsevier}
+}
+
+@incollection{migliori2016stented,
+  title={Stented coronary arteries: a semi-automatic segmentation method for OCT-based reconstruction},
+  author={Migliori, Susanna and Chiastra, Claudio and Bologna, Marco and Montin, Eros and Aurigemma, C and Fedele, Roberto and Burzotta, F and Mainardi, Luca and Dubini, GABRIELE ANGELO and Migliavacca, Francesco and others},
+  booktitle={VPH 2016-Book of Abstracts},
+  pages={377--380},
+  year={2016},
+  publisher={University if Amsterdam}
+}
+
+@article{mg2010exploring,
+  title={Exploring Cortical Attentional System by Using fMRI during a Continuous Perfomance Test},
+  author={MG, Tana and Montin, E and Cerutti, S and AM, Bianchi and others},
+  journal={Computational Intelligence and Neuroscience},
+  volume={2010},
+  publisher={Hindawi Publishing Corporation}
+}
+
+@article{montin2010efficient,
+  title={An efficient and effective segmentation software to investigate the apparent diffusion coefficient in multiple myeloma lesions.},
+  author={Montin, E and Potepan, P and Mainardi, Luca and others},
+  year={2010}
+}
+
+@article{cutribiomechanical,
+  title={Biomechanical evaluation of skin and melanocytic naevi},
+  author={Cutr{\`\i}, E and Franzetti, G and Crippa, F and Montin, E and Spadola, G and Testori, A and Mainardi, L and Pennati, G}
+}
+
+@article{meroni2015ep,
+  title={EP-1531: Image registration framework to investigate children neurocognitive outcome after focal brain irradiation},
+  author={Meroni, S and Montin, E and Arrigoni, F and Cavatorta, C and Poggi, G and Oprandi, C and Pecori, E and Schiavello, E and Diletto, B and Massimino, M and others},
+  journal={Radiotherapy and Oncology},
+  volume={115},
+  pages={S836},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@inproceedings{potepan2010whole,
+  title={Whole-body DWI, whole-body and whole-spine MRI in multiple myeloma},
+  author={Potepan, P and Spina, F and Montin, E and Mainardi, L and Montefusco, V and Corradini, P and others},
+  year={2010},
+  organization={European Congress of Radiology-ECR 2010}
+}
+
+@inproceedings{potepan2010effective,
+  title={An effective 3D segmentation method for sinonasal cancer in response to chemoterapy},
+  author={Potepan, P and Passera, K and Brambilla, L and Montin, E and Vergnaghi, D and Mainardi, L and others},
+  year={2010},
+  organization={European Congress of Radiology-ECR 2010}
+}
+
+@inproceedings{bologna2018segmentation,
+  title={A segmentation method for OCT images of coronary arteries treated with bioresorbable stents: validation and application to numerical modelling},
+  author={Bologna, Marco and Migliori, Susanna and Montin, Eros and Rampat, Rajiv and Hildick-Smith, David and Cockburn, James and Migliavacca, Francesco and Mainardi, Luca and Chiastra, Claudio and others},
+  booktitle={Atti del Congresso del Gruppo Nazionale di Bioingegneria GNB 2018},
+  pages={1--3},
+  year={2018},
+  organization={ITA}
+}
+
+@inproceedings{bologna2018validation,
+  title={Validation of a segmentation method for OCT images of coronary arteries treated with bioresorbable stents for numerical modelling},
+  author={Bologna, M and Migliori, S and Montin, E and Rampat, R and Hildick-Smith, D and Cockburn, J and Migliavacca, F and Mainardi, L and Chiastra, C and others},
+  booktitle={Atti del Congresso del Gruppo Nazionale di Bioingegneria GNB 2018},
+  pages={1--3},
+  year={2018},
+  organization={ITA}
+}
+
+@inproceedings{bologna2018histological,
+  title={Histological group identification in sinonasal cancer with diffusion weighted magnetic resonance imaging},
+  author={Bologna, Marco and Montin, Eros and Corino, Valentina and Bossi, Paolo and Calareso, Giuseppina and Licitra, Lisa and Mainardi, Luca and others},
+  booktitle={Atti del Congresso del Gruppo Nazionale di Bioingegneria GNB 2018},
+  pages={1--3},
+  year={2018},
+  organization={ITA}
+}
+
+@article{migliori2020application,
+  title={Application of an OCT-based 3D reconstruction framework to the hemodynamic assessment of an ulcerated coronary artery plaque},
+  author={Migliori, Susanna and Chiastra, Claudio and Bologna, Marco and Montin, Eros and Dubini, Gabriele and Genuardi, Lorenzo and Aurigemma, Cristina and Mainardi, Luca and Burzotta, Francesco and Migliavacca, Francesco},
+  journal={Medical Engineering \& Physics},
+  volume={78},
+  pages={74--81},
+  year={2020},
+  publisher={Elsevier}
+}
+
+@article{bologna2022relevance,
+  title={Relevance of apparent diffusion coefficient features for a radiomics-based prediction of response to induction chemotherapy in sinonasal cancer},
+  author={Bologna, Marco and Calareso, Giuseppina and Resteghini, Carlo and Sdao, Silvana and Montin, Eros and Corino, Valentina and Mainardi, Luca and Licitra, Lisa and Bossi, Paolo},
+  journal={NMR in Biomedicine},
+  volume={35},
+  number={4},
+  pages={e4265},
+  year={2022}
+}
+
+@article{montin2020multi,
+  title={A multi-metric registration strategy for the alignment of longitudinal brain images in pediatric oncology},
+  author={Montin, Eros and Belfatto, Antonella and Bologna, Marco and Meroni, Silvia and Cavatorta, Claudia and Pecori, Emilia and Diletto, Barbara and Massimino, Maura and Oprandi, Maria Chiara and Poggi, Geraldina and others},
+  journal={Medical \& Biological Engineering \& Computing},
+  volume={58},
+  pages={843--855},
+  year={2020},
+  publisher={Springer Berlin Heidelberg}
+}
+
+@article{cavatorta2021retrospective,
+  title={Retrospective study of late radiation-induced damages after focal radiotherapy for childhood brain tumors},
+  author={Cavatorta, Claudia and Meroni, Silvia and Montin, Eros and Oprandi, Maria C and Pecori, Emilia and Lecchi, Mara and Diletto, Barbara and Alessandro, Ombretta and Peruzzo, Denis and Biassoni, Veronica and others},
+  journal={Plos one},
+  volume={16},
+  number={2},
+  pages={e0247748},
+  year={2021},
+  publisher={Public Library of Science San Francisco, CA USA}
+}
+
+@article{montin2021seeking,
+  title={Seeking a Widely Adoptable Practical Standard to Estimate Signal-to-Noise Ratio in Magnetic Resonance Imaging for Multiple-Coil Reconstructions},
+  author={Montin, Eros and Lattanzi, Riccardo},
+  journal={Journal of Magnetic Resonance Imaging},
+  volume={54},
+  number={6},
+  pages={1952--1964},
+  year={2021},
+  publisher={John Wiley \& Sons, Inc. Hoboken, USA}
+}
+
+@inproceedings{montin2019mr,
+  title={MR Optimum--A web-based application for signal-to-noise ratio evaluation},
+  author={Montin, Eros and Wiggins, Roy and Block, Kai Tobias and Lattanzi, Riccardo},
+  booktitle={27th Scientific Meeting of the International Society for Magnetic Resonance in Medicine (ISMRM)},
+  pages={4617},
+  year={2019}
+}
+
+@inproceedings{montin2020camrie,
+  title={CAMRIE--Cloud-Accessible MRI Emulator},
+  author={Montin, Eros and Carluccio, Giuseppe and Collins, C and Lattanzi, Riccardo},
+  booktitle={28th Scientific Meeting of the International Society for Magnetic Resonance in Medicine (ISMRM). Virtual Conference},
+  pages={1037},
+  year={2020}
+}
+
+@inproceedings{montin2021web,
+  title={A web-accessible tool for rapid analytical simulations of MR coils via cloud computing},
+  author={Montin, Eros and Carluccio, Giuseppe and Lattanzi, Riccardo},
+  booktitle={29th Scientific Meeting of the International Society for Magnetic Resonance in Medicine (ISMRM). Virtual Conference},
+  pages={3756},
+  year={2021}
+}
+
+@inproceedings{montin2022web,
+  title={A web-accessible tool for Temperature Estimation from SAR Simulations (TESS)},
+  author={Montin, Eros and Carluccio, Giuseppe and Collins, Christopher and Lattanzi, Riccardo},
+  booktitle={30th Scientific Meeting of the International Society for Magnetic Resonance in Medicine (ISMRM). London (UK)},
+  pages={582},
+  year={2022}
+}
+
+@inproceedings{montin2022software,
+  title={A software tool to assess radiofrequency coil designs with respect to ultimate intrinsic performance limits},
+  author={Montin, Eros and Georgakis, Ioannis P and Zhang, Bei and Lattanzi, Riccardo},
+  booktitle={30th Scientific Meeting of the International Society for Magnetic Resonance in Medicine (ISMRM). London (UK)},
+  pages={2780},
+  year={2022}
+}
+
+@inproceedings{carluccio2022comparison,
+  title={Comparison of 2D vs 3D Deep Learning Algorithms to Estimate Temperature Throughout the Human Body},
+  author={Carluccio, Giuseppe and Montin, Eros and Lattanzi, Riccardo and Collins, Christopher Michael},
+  booktitle={Proc. ISMRM Annual Meeting},
+  pages={2559},
+  year={2022}
+}
+
+@inproceedings{montin2022automatic,
+  title={Automatic segmentation of the hip bony structures on 3D Dixon MRI datasets using transfer learning from a neural network developed for the shoulder},
+  author={Montin, Eros and Deniz, Cem Murat and Rodrigues, Tatiane Cantarelli and Gyftopoulos, Soterios and Kijowski, Richard and Lattanzi, Riccardo},
+  booktitle={30th Scientific Meeting of the International Society for Magnetic Resonance in Medicine (ISMRM) London (UK), 07-12 May 2022},
+  pages={1412},
+  year={2022}
+}
+
+@article{montin2023radiomics,
+  title={A radiomics approach to the diagnosis of femoroacetabular impingement},
+  author={Montin, Eros and Kijowski, Richard and Youm, Thomas and Lattanzi, Riccardo},
+  journal={Frontiers in Radiology},
+  volume={3},
+  pages={1151258},
+  year={2023},
+  publisher={Frontiers Media SA}
+}
+
+@article{bonacina2009web,
+  title={A Web-based tool for cooperating behaviors in eating and activity control},
+  author={Bonacina, Stefano and Privitera, Ya and Marsilio, S and Montin, E and Passarelli, F and Masseroli, Marco and Pinciroli, Francesco and others},
+  journal={CYBERPSYCHOLOGY \& BEHAVIOR},
+  pages={588--589},
+  year={2009}
+}
+
+@inproceedings{montin2023deep,
+  title={A deep learning model for the estimation of RF field trained from an analytical solution},
+  author={Montin, Eros and Carluccio, Giuseppe and Collins, Christopher and Lattanzi, Riccardo},
+  booktitle={2023 IEEE USNC-URSI Radio Science Meeting (Joint with AP-S Symposium)},
+  pages={71--72},
+  year={2023},
+  organization={IEEE}
+}
+
+@inproceedings{carluccio2023web,
+  title={A Web-Accessible Tool for 2D Analytical Solutions of Electromagnetic Fields in Concentric Cylinders},
+  author={Carluccio, Giuseppe and Montin, Eros and Collins, Christopher and Lattanzi, Riccardo},
+  booktitle={2023 International Conference on Electromagnetics in Advanced Applications (ICEAA)},
+  pages={419--420},
+  year={2023},
+  organization={IEEE}
+}
+
+@article{montin2024impact,
+  title={The impact of data augmentation and transfer learning on the performance of deep learning models for the segmentation of the hip on 3D magnetic resonance images},
+  author={Montin, Eros and Deniz, Cem M and Kijowski, Richard and Youm, Thomas and Lattanzi, Riccardo},
+  journal={Informatics in Medicine Unlocked},
+  volume={45},
+  pages={101444},
+  year={2024},
+  publisher={Elsevier}
+}
+
+@inproceedings{carluccio2023impact,
+  title={Impact of the Complexity of the Geometry in an Analytical Solution Used to Train a Deep Learning Network},
+  author={Carluccio, Giuseppe and Montin, Eros and Lattanzi, Riccardo and Collins, Christopher},
+  booktitle={2023 IEEE EMBS Special Topic Conference on Data Science and Engineering in Healthcare, Medicine and Biology},
+  pages={13--14},
+  year={2023},
+  organization={IEEE}
+}
+
+@inproceedings{carluccio2023comparative,
+  title={A Comparative Study of 2D and 3D Deep Learning Networks for Human Body Models Temperature Prediction},
+  author={Carluccio, Giuseppe and Montin, Eros and Lattanzi, Riccardo and Collins, Christopher},
+  booktitle={2023 IEEE EMBS Special Topic Conference on Data Science and Engineering in Healthcare, Medicine and Biology},
+  pages={133--134},
+  year={2023},
+  organization={IEEE}
+}
+
+@misc{montin2024radiomics,
+  title={Radiomics and AI for clinical and translational medicine},
+  author={Montin, Eros and Corino, Valentina DA and Martel, Dimitri and Carlucci, Giuseppe and Scaramuzza, Davide},
+  journal={Frontiers in Radiology},
+  volume={4},
+  pages={1375443},
+  year={2024},
+  publisher={Frontiers Media SA}
+}
+
+@inproceedings{patti20232012,
+  title={2012-2022: a ten year monoinstitutional experience in the treatment of anal squamous cell carcinoma (SCC)},
+  author={Patti, Filippo and Drebot, Roza and Di Russo, Anna and Valvo, Francesca and Vennarini, Sabina and Platania, Marco and Morano, Federica and Scaramuzza, Davide and Vanzulli, Andrea and Sciacqua, Lucilla Violetta and others},
+  booktitle={SEXUAL HEALTH},
+  volume={20},
+  number={5},
+  pages={LXIII--LXIII},
+  year={2023},
+  organization={CSIRO PUBLISHING UNIPARK, BLDG 1, LEVEL 1, 195 WELLINGTON RD, LOCKED BAG 10~…}
+}
