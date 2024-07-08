@@ -1,0 +1,46 @@
+@article{totalsegmentator,
+   abstract = {Purpose To develop an open-source and easy-to-use segmentation model that can automatically and robustly segment most major anatomical structures in MR images independently of the MR sequence. Materials and Methods In this study we extended the capabilities of TotalSegmentator to MR images. 298 MR scans and 227 CT scans were used to segment 59 anatomical structures (20 organs, 18 bones, 11 muscles, 7 vessels, 3 tissue types) relevant for use cases such as organ volumetry, disease characterization, and surgical planning. The MR and CT images were randomly sampled from routine clinical studies and thus represent a real-world dataset (different ages, pathologies, scanners, body parts, sequences, contrasts, echo times, repetition times, field strengths, slice thicknesses and sites). We trained an nnU-Net segmentation algorithm on this dataset and calculated Dice similarity coefficients (Dice) to evaluate the model's performance. Results The model showed a Dice score of 0.824 [CI: 0.801, 0.842] on the test set, which included a wide range of clinical data with major pathologies. The model significantly outperformed two other publicly available segmentation models (Dice score, 0.824 versus 0.762; p<0.001 and 0.762 versus 0.542; p<0.001). On the CT image test set of the original TotalSegmentator paper it almost matches the performance of the original TotalSegmentator (Dice score, 0.960 versus 0.970; p<0.001). Conclusion Our proposed model extends the capabilities of TotalSegmentator to MR images. The annotated dataset (https://zenodo.org/doi/10.5281/zenodo.11367004) and open-source toolkit (https://www.github.com/wasserth/TotalSegmentator) are publicly available.},
+   author = {Tugba Akinci D'antonoli and Lucas K Berger and Ashraya K Indrakanti and Nathan Vishwanathan and Jakob Weiß and Matthias Jung Md and Zeynep Berkarda and Alexander Rau and Marco Reisert Phd and Thomas Küstner and Alexandra Walter and Elmar M Merkle and Martin Segeroth and Joshy Cyriac Msc and Shan Yang and Jakob Wasserthal},
+   doi = {10.5281/zenodo.11367004},
+   title = {TotalSegmentator MRI: Sequence-Independent Segmentation of 59 Anatomical Structures in MR images},
+   url = {https://zenodo.org/doi/10.5281/zenodo.11367004},
+}
+
+
+@article{ITKSoftware,
+  title={The Insight Segmentation and Registration Toolkit},
+  author={Johnson, H.J. and McCormick, M. and Ibanez, L.},
+  journal={Software Guide},
+  year={2015},
+  publisher={Kitware, Inc.},
+  url={http://www.itk.org/ItkSoftwareGuide.pdf}
+}
+
+@inproceedings{ITK2002,
+  title={Engineering and Algorithm Design for an Image Processing API: A Technical Report on ITK – The Insight Toolkit},
+  author={Yoo, T.S. and Ackerman, M.J. and Lorensen, W.E. and Schroeder, W. and Chalana, V. and Aylward, S. and Metaxas, D. and Whitaker, R.},
+  booktitle={Medicine Meets Virtual Reality},
+  editor={Westwood, J.},
+  pages={586--592},
+  year={2002},
+  publisher={IOS Press Amsterdam}
+}
+
+@book{ITKSoftwareGuide,
+   title={The ITK Software Guide: Design and Functionality},
+   author={Johnson, H.J. and McCormick, M. and Ibanez, L.},
+   year={2015},
+   edition={Fourth},
+   publisher={Kitware Inc.},
+   isbn={9781930934283}
+}
+
+@book{ITKSoftwareGuideDev,
+   title={The ITK Software Guide: Introduction and Development Guidelines},
+   author={Johnson, H.J. and McCormick, M. and Ibanez, L.},
+   year={2015},
+   edition={Fourth},
+   publisher={Kitware Inc.},
+   isbn={9781930934276}
+}
+
